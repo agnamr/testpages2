@@ -2,7 +2,7 @@
   "name": "testpages2",
   "compatibility_date": "2025-06-27",
   "assets": {
-     "directory": ["./public/", "./functions/", "./functions/api"],
+     "directory": "./public/, ./functions/api",
      "binding": "ASSETS"
   }
 }
